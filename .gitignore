@@ -1,0 +1,6 @@
+logs
+data
+data_mat
+.idea
+*__pycache__
+*.txt
